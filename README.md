@@ -39,21 +39,15 @@ python "import sqlite3.py"
 
 > The current source code uses `admin123` as the admin password.
 
-## Main Flowchart
-
-![Main system flowchart](system_flowchart.png)
-
-## Admin Flowchart
-
-![Admin module flowchart](admin_flowchart.png)
 
 ## Screenshots
 
 ### Student List
-![Student list](student_list.png)
+<img width="477" height="501" alt="Screenshot 2026-09-29 203911" src="https://github.com/user-attachments/assets/cccdc225-469b-46ac-9583-a18ded1f44ec" />
 
 ### Student Registration
-![Student registration](student_registration.png)
+<img width="518" height="627" alt="Screenshot 2026-09-29 203924" src="https://github.com/user-attachments/assets/103da6cc-1478-40a4-be79-e7593ac82061" />
+
 
 ## Project Structure
 
